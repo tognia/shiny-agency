@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 2021-10-05
 ### Added
-- CHANGELOG has been added to the first version of Base version of shiny-agency app
+- CHANGELOG has been added to the Base version of shiny-agency app
 - This CHANGELOG file to hopefully serve as an evolving example of a
   standardized open source project CHANGELOG.
 - CNAME file to enable GitHub Pages custom domain
