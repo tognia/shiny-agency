@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 [Unreleased]: https://github.com/tognia/shiny-agency/tree/master
+
+## [1.1.0] - 2021-10-06 
+### Added
+- Feature MYFEATURE added to the src folder commit "Ajout fonctionnalité MYFEATURE" Branch "featureMYFEATURE" 
+
 ## [1.0.0] - 2021-10-05
 ### Added
 - The folder API which contains the data
