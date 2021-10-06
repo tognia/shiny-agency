@@ -94,6 +94,7 @@ Shiny-agency is a web app who helps the freelancers offer theirs services to cus
 ### Built With
 
 * [React.js](https://reactjs.org/)
+* [node.js](https://nodejs.org/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
