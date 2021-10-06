@@ -118,14 +118,27 @@ To have a full benefit from this tuto, some skills are recommanded susch as :
 ### Installation
 
 1. Get a free API Key at [Folder API](https://github.com/tognia/shiny-agency/tree/master/API)
-2. Clone the repo
+2. Clone the repo for instance in the projects folder on the root of your local storage
    ```sh
    git clone https://github.com/tognia/shiny-agency.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
+
+3. We presume you have already installed package manager Yarn
+   By using the command line go to the directory shiny-agency and run the commmand :
+
+    ```sh
+   yarn start
    ```
+   This will launch our App at location https://localhost:3000/
+   
+4. Open another command line and move to directory which keeps the API files and run the following command :
+
+    ```sh
+   yarn start
+   ```
+   This will launch our test server at location https://localhost:8000/
+
+5. Start exploring the sample
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
