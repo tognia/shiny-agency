@@ -114,14 +114,10 @@ To have a full benefit from this tuto, some skills are recommanded susch as :
  - Know about JSX syntax
  - CSS, HTML, JavaScript 
 
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [Folder API](https://github.com/tognia/shiny-agency/tree/master/API)
 2. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
