@@ -103,7 +103,7 @@ Shiny-agency is a web app who helps the freelancers offer theirs services to cus
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is good example to lurn about some notions of ReactJs like the hooks, retrieving data from API, Tests, React Create APP, React Testing Library, Etc.
+This is good example to lurn about some notions of ReactJs like the hooks, retrieving data from API, Tests, Create React  APP, React Testing Library, Etc.
 
 ### Prerequisites
 
@@ -111,6 +111,9 @@ To have a full benefit from this tuto, some skills are recommanded susch as :
  - Know about installation of Node.js
  - Know about running some package manager like Yarn or npm
  - Git for cloning the API within your local storage
+ - Know about JSX syntax
+ - CSS, HTML, JavaScript 
+
 * npm
   ```sh
   npm install npm@latest -g
