@@ -82,8 +82,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Shiny-agency is a web app who helps the freelancers offer theirs services to customers. Also Enterprises an particular can also find the profiles they need on this platform.
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Shiny-agency is a web app who helps the freelancers offer theirs services to customers. Also Enterprises an particular can also find the profiles they need on this platform.<br/><br/>
+[![Product Name Screen Shot][product-screenshot]](https://www.figma.com/file/KlrToaA7Dj1Sm0opq37ICg/React-interm%C3%A9diaire?node-id=0%3A1)
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description` -->
 
@@ -103,32 +103,30 @@ Shiny-agency is a web app who helps the freelancers offer theirs services to cus
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is good example to lurn about some notions of ReactJs like the hooks, retrieving data from API, Tests, Create React  APP, React Testing Library, Etc.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+To have a full benefit from this tuto, some skills are recommanded susch as :
+ - Know about installation of Node.js
+ - Know about running some package manager like Yarn or npm
+ - Git for cloning the API within your local storage
+ - Know about JSX syntax
+ - CSS, HTML, JavaScript 
+
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [Folder API](https://github.com/tognia/shiny-agency/tree/master/API)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/tognia/shiny-agency.git
    ```
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
