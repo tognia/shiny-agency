@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Shiny-agency is a web app who helps the freelancers offer theirs services to customers. Also Enterprises an particular can also find the profiles they need on this platform.
-[![Product Name Screen Shot][product-shiny-agency-home]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description` -->
 
