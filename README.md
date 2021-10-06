@@ -107,7 +107,10 @@ This is good example to lurn about some notions of ReactJs like the hooks, retri
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+To have a full benefit from this tuto, some skills are recommanded susch as :
+ - Know about installation of Node.js
+ - Know about running some package manager like Yarn or npm
+ - Git for cloning the API within your local storage
 * npm
   ```sh
   npm install npm@latest -g
