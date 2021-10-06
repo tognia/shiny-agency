@@ -103,8 +103,7 @@ Shiny-agency is a web app who helps the freelancers offer theirs services to cus
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is good example to lurn about some notions of ReactJs like the hooks, retrieving data from API, Tests, React Create APP, React Testing Library, Etc.
 
 ### Prerequisites
 
