@@ -9,6 +9,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [Unreleased]: https://github.com/tognia/shiny-agency/tree/master
 
+## [1.3.0] - 2021-10-07 
+### Added
+- Feature homapage.html added to the src folder commit "Ajout du fichier src/homepage.html 07102021"
+
+
+## [1.2.0] - 2021-10-07 
+### Added
+- Feature firstFeature added to the src/features folder commit "Ajout de la fonctionnalité firstFeature dans src/Features 07102021" Branch "featureMYFEATURE"
+- Feature MYFEATURE deleted from src commit "Ajout de la fonctionnalité firstFeature dans src/Features 07102021" on Branch "featureMYFEATURE"  
+
 ## [1.1.0] - 2021-10-06 
 ### Added
 - Feature MYFEATURE added to the src folder commit "Ajout fonctionnalité MYFEATURE" Branch "featureMYFEATURE" 
